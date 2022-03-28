@@ -12,3 +12,6 @@ WiFi/BT Module: Intel AC3168
 
 Audio Module: Realtek ALC233
 
+# If your headphone jack does not work properly
+
+Just double click “install.command” and follow the instructions.
