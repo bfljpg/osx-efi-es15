@@ -14,4 +14,4 @@ Audio Module: Realtek ALC233
 
 # If your headphone jack does not work properly
 
-Just double click “install.command” and follow the instructions.
+Just download ALCPlugFix.zip, extract archive, double click “install.command” and follow the instructions.
