@@ -6,7 +6,7 @@ Bootloader: OpenCore 0.7.9 Stable Release
 
 CPU: Intel Core i3-6100U @ 2.3GHz
 
-GPU: Intel HD 520 // no external GPU
+GPU: Intel HD 520 // no discrete GPU
 
 WiFi/BT Module: Intel AC3168
 
